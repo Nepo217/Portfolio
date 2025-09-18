@@ -4,18 +4,17 @@
 
 I have created this portfolio to showcase my proof of concept programming skills.
 
-🔗 **Links:** [🌐 Portfolio](https://your-portfolio.com) • [💼 LinkedIn](https://linkedin.com/in/your-profile) • [🐦 Twitter](https://twitter.com/your-handle)
-
----
-
 ### 🛠️ Languages and OS Skills
 
-**Languages:** Java, PHP
+**Languages:** 
+  Java, PHP
 
 
-**Database & Tools:** SQL, MySQL
+**Database & Tools:** 
+  SQL, MySQL
 
-**OS and Server** Windows 10/11, Linux, Windows Server 2022
+**OS and Server** 
+  Windows 10/11, Linux, Windows Server 2022
 
 ---
 
