@@ -8,32 +8,16 @@ I have created this portfolio to showcase my proof of concept programming skills
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Languages and OS Skills
 
-**Languages:** 
+**Languages:** Java, PHP
 
-**Frontend:** 
 
-**Backend:** 
+**Database & Tools:** SQL, MySQL
 
-**Database & Tools:** 
-
----
-
-### 🌟 Featured Projects
-
-#### **1. Project Alpha** | [Live Demo](https://your-demo-link.com) | [Source Code](https://github.com/your-username/project-alpha)
->A brief, compelling description of what the project does and its main goal.
-- **Tech:** React, Node.js, MongoDB
-- **Features:** Detail a key feature (e.g., "JWT user authentication"), another feature (e.g., "RESTful API design"), and a third if relevant.
-
-#### **2. Project Beta** | [Live Demo](https://your-demo-link.com) | [Source Code](https://github.com/your-username/project-beta)
->A brief, compelling description of what the project does and its main goal.
-- **Tech:** Python, Django, PostgreSQL
-- **Features:** Detail a key feature, another feature, and a third if relevant.
+**OS and Server** Windows 10/11, Linux, Windows Server 2022
 
 ---
-
 
 ### 📫 How to Reach Me
 
