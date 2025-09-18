@@ -1,4 +1,4 @@
-# Eric Burke 👋
+# Eric Burke 👋 Welcome to my portfolio page!
 
 ### Computer Services Paraprofessional, Illinois Education Association
 
@@ -13,7 +13,7 @@ I have created this portfolio to showcase my proof of concept programming skills
 **Database & Tools:** 
   SQL, MySQL
 
-**OS and Server** 
+**OS and Server:** 
   Windows 10/11, Linux, Windows Server 2022
 
 ---
