@@ -1,8 +1,8 @@
-# [Eric Burke] 👋
+# Eric Burke 👋
 
-### [Computer Services Paraprofessional, Illinois Education Association]
+### Computer Services Paraprofessional, Illinois Education Association
 
-[Your one-sentence bio/passion statement. For example: "A backend developer passionate about building scalable and efficient APIs."]
+I have created this portfolio to showcase my proof of concept programming skills.
 
 🔗 **Links:** [🌐 Portfolio](https://your-portfolio.com) • [💼 LinkedIn](https://linkedin.com/in/your-profile) • [🐦 Twitter](https://twitter.com/your-handle)
 
@@ -10,13 +10,13 @@
 
 ### 🛠️ Tech Stack
 
-**Languages:** ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+**Languages:** 
 
-**Frontend:** ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+**Frontend:** 
 
-**Backend:** ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+**Backend:** 
 
-**Database & Tools:** ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+**Database & Tools:** 
 
 ---
 
@@ -34,13 +34,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=default" alt="Your Name's GitHub Stats" />
-</p>
-
----
 
 ### 📫 How to Reach Me
 
